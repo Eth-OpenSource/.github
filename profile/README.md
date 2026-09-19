@@ -11,9 +11,6 @@ We believe in **open collaboration, transparent development, and community-drive
 * Collaborate with contributors and communities
 * Share knowledge and encourage experimentation
 
-### Contribute
-
-Contributions are welcome. Explore our repositories, open an issue, or submit a pull request.
-
+ 
 **Build openly. Build together.**
 
